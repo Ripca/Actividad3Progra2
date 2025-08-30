@@ -10,7 +10,7 @@ import modelo.Docente;
 import modelo.Profesion;
 /**
  *
- * @author Programador
+ * @author VELA
  */
 public class frm_personas extends javax.swing.JFrame {
     DefaultTableModel tbl_modelo;
