@@ -1,0 +1,52 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Maven
+target/
+log/
+
+# Archivos de Gradle
+.gradle/
+build/
+
+# Base de datos u otros archivos locales
+*.db
+*.sqlite
+*.log
